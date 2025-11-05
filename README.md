@@ -10,6 +10,9 @@ RSA encyption algorithm for fun
 ## Prerequisites
 Python 3.12.0
 
+## Requirements -> requirements.txt
+- Numpy
+
 ## Installation
 
 ### Python and pip
@@ -24,6 +27,11 @@ python3 --version
 ## Setting up the project
 1. Clone the repository
 2. Navigate to the project directory
+3. Create and activate venv
+4. Install the required packages using pip:
+```bash
+pip install -r requirements.txt
+```
 
 
 ## Running the application
